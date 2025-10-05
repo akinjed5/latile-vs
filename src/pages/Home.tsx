@@ -82,13 +82,12 @@ export default function Home() {
         </div>
 
         <div className="relative h-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center">
-          <div className="max-w-3xl text-white">
-            <p className="text-sm tracking-widest mb-4 text-emerald-300">NIGERIAN INTERIOR EXCELLENCE</p>
-            <h1 className="text-5xl md:text-6xl lg:text-7xl font-light leading-tight mb-6">
-              We Design<br />
-              <span className="font-normal">Your Space</span>
+          <div className="max-w-6xl mx-auto text-center text-white">
+            {/* <p className="text-sm tracking-widest mb-4 text-emerald-300">NIGERIAN INTERIOR EXCELLENCE</p> */}
+            <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
+              We Design Your Space
             </h1>
-            <p className="text-lg md:text-xl text-gray-200 mb-8 max-w-2xl leading-relaxed">
+            <p className="text-lg md:text-xl text-gray-200 mb-8 max-w-2xl mx-auto leading-relaxed">
               Latiile brings contemporary African aesthetics to life through thoughtful interior design that celebrates Nigerian culture and modern sophistication.
             </p>
             <Link
