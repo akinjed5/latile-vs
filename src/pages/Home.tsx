@@ -74,7 +74,7 @@ export default function Home() {
       <section className="relative h-screen pt-20">
         <div className="absolute inset-0">
           <img
-            src="/public/images/portfolio/landing.jpg"
+            src="/images/portfolio/landing.jpg"
             alt="Latiile Interior Design"
             className="w-full h-full object-cover"
           />
